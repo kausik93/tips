@@ -1,7 +1,7 @@
 # tips
 tips is a tip calculator application for iOS.
 Submitted by: Kausik Venkat
-Time spent: Over 35 hours
+Time spent: > 19 hours
 
 Hi, this is my simple tips calculator app. It lets you choose between 18%, 20% and 25% to calculate your total tip. It also can handle a multiple party size so if you have 3 people sharing a meal, it will calculate the bill amount for each person including the tip. I have also included a simple color mode scheme where the user can choose between light mode, dark mode and UIUC mode which a variant of blue and orange.
 

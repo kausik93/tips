@@ -5,7 +5,7 @@ Time spent: Over 35 hours
 
 Hi, this is my simple tips calculator app. It lets you choose between 18%, 20% and 25% to calculate your total tip. It also can handle a multiple party size so if you have 3 people sharing a meal, it will calculate the bill amount for each person including the tip. I have also included a simple color mode scheme where the user can choose between light mode, dark mode and UIUC mode which a variant of blue and orange.
 
-Note: I'm sorry I don't have a settings page. I had emailed you guys about it and got it fixed but literally 1 hour before submission the settings page broke and I was not able to finish it. Thus you can see my optional features in the main view page itself. :/
+Note: I'm sorry I don't have a settings page. I had emailed you guys about it and got it fixed but literally 1 hour before submission the settings page broke and I was not able to finish it. Thus I had to put my optional features in the main view page itself. :/
 
 The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
